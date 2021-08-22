@@ -26,7 +26,7 @@ python3 snapchat.py
  - Option 1 
  - Enter the username
 
-![1](https://github.com/SudoSuu/SnapchatUsernameChecker/blob/main/screenshots/s.png)
+![1](https://raw.githubusercontent.com/SudoSuu/SnapchatUsernameChecker/su/screenshots/s.png)
 
 
 
@@ -84,7 +84,7 @@ aay
 aaz
 ............... 
 ```
-![1](https://github.com/SudoSuu/SnapchatUsernameChecker/blob/main/screenshots/3.png)
+![1](https://raw.githubusercontent.com/SudoSuu/SnapchatUsernameChecker/su/screenshots/3.png)
 
 **OR**
 
@@ -103,7 +103,8 @@ sudosu5
 sudosu6
 ............... 
 ```
-![2](https://github.com/SudoSuu/SnapchatUsernameChecker/blob/main/screenshots/sudosu.png)
+![1](https://raw.githubusercontent.com/SudoSuu/SnapchatUsernameChecker/su/screenshots/sudosu.png)
+
 
 
 
