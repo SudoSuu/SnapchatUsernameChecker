@@ -23,13 +23,13 @@ def single_request(username):
                         cookies=cookies, data=data)
     if "TAKEN" in res.text:
         print(username + Fore.LIGHTBLUE_EX +
-              " > Used not available" + Fore.WHITE)
+              " : Used not available" + Fore.WHITE)
     elif "DELETED" in res.text:
         print(username + Fore.RED +
-              " > this account has been closed or deleted" + Fore.WHITE)
+              " : this account has been closed or deleted" + Fore.WHITE)
     elif "OK" in res.text:
         print(username + Fore.GREEN +
-              " > Available " + Fore.WHITE + " - saved in availables.txt" + Fore.WHITE)
+              " : Available " + Fore.WHITE + " - saved in availables.txt" + Fore.WHITE)
         with open('availables.txt', 'a+') as f:
             f.write("\n"+username)
             f.close()
